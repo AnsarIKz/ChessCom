@@ -144,4 +144,5 @@ This small native JavaScript module adds a dynamic “attack map” to your ches
 })();
 
 ```
-![image](https://github.com/user-attachments/assets/2e419e2b-e3f5-4ff3-8ead-f3f502c20681)
+![image](https://github.com/user-attachments/assets/e9a1df6f-9dc4-4b4a-b4dc-72bebfe4d533)
+
