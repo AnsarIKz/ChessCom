@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ad58a1d-7f49-463e-980d-0fc6d2b98354)# ChessCom
+# ChessCom
 
 Attack-map.js - description
 
